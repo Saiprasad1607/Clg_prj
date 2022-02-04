@@ -65,7 +65,6 @@
         android:layout_width="267dp"
         android:layout_height="46dp"
         android:text="SignUp"
-
         android:background="@drawable/button"
         android:bottomRightRadius="10dp"
         android:bottomLeftRadius="10dp"

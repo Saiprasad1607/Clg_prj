@@ -8,4 +8,6 @@
     <color name="black">#FF000000</color>
     <color name="white">#FFFFFFFF</color>
     <color name="login_color">#C34C65</color>
+    <color name="main_option_color">#00FFFFFF</color>
+
 </resources>
